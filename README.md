@@ -1,10 +1,10 @@
+# About Me
 
  Hi, I'm Avyanjali Kumar 
 
  Branch - B.Tech CSE (AI & ML)   
  currently in First Year at VIT Bhopal  
 
-# About Me
 I am a first-year student passionate about programmimg, designing and physics.
 
 # Goals
